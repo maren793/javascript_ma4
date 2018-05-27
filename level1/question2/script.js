@@ -13,3 +13,5 @@ function createCards(result) {
     details.innerHTML += "Title: " + result.title  ;
     details.innerHTML += "Completed:  " + result.completed  ;
 }
+
+// Im stuck. Dont get through the information from Json
