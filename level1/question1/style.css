@@ -1,0 +1,13 @@
+body{
+    font-family: Arial;
+    background-color: powderblue;
+}
+
+button{
+    background-color: orange;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
